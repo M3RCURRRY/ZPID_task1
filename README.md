@@ -1,9 +1,9 @@
 # Задание №1
 
 ## Краткое описание
-Windows-Only (#include <Windows.h> для вызова IsDebuggerPresent(). #include <debugapi.h> в "чистом виде" невозможен в VS2019)
-Используемая IDE : Visual Studio 2019 Enterprise
-Компилятор MSVC142
+1. Windows-Only (#include <Windows.h> для вызова IsDebuggerPresent(). #include <debugapi.h> в "чистом виде" невозможен в VS2019)
+2. Используемая IDE : Visual Studio 2019 Enterprise
+3. Компилятор MSVC142
 
 ## #Описание программы
 Входные данные - 2 строки (логин, пароль)
